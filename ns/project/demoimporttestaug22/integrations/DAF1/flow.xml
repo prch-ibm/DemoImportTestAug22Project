@@ -128,7 +128,7 @@
   <COMMENT></COMMENT>
 </INVOKE>
 
-<INVOKE NAME="Math" SERVICE="pub.math:addInts">
+<INVOKE NAME="Math" SERVICE="pub.math:addInts" DISABLED="true">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>
