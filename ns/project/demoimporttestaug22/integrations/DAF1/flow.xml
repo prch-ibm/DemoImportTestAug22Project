@@ -131,4 +131,8 @@
 <INVOKE NAME="Math" SERVICE="pub.math:addInts" DISABLED="true">
   <COMMENT></COMMENT>
 </INVOKE>
+
+<INVOKE NAME="Flow" SERVICE="pub.flow:debugLog">
+  <COMMENT></COMMENT>
+</INVOKE>
 </FLOW>
